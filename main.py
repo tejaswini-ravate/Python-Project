@@ -1,8 +1,13 @@
 '''
+# Snake Water Gun Game
+# Snake drinks water, water damages gun, gun shoots snake
+
+
 GUN = 0
 SNAKE = 1
 WATER = -1
 
+ 
 '''
 
 import random
